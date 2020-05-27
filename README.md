@@ -1,4 +1,4 @@
-# Archived - see github.com/soharicmedia/otl
+# Archived - see www.github.com/soharicmedia/otl
 
 Mature Operations (MO), a mod for 911 Operator
 <p>To view full credits for visit www.soharicmedia.com/911/btl</p>
